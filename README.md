@@ -1,12 +1,15 @@
 # NIFIELK_Pablo
-##Entrega ejercicio NIFI-ELK
 <br>
 </br>
-link:[https://data.cityofnewyork.us/resource/erm2-nwe9.json]
+#Entrega ejercicio NIFI-ELK
 <br>
 </br>
-Puerto Nifi: link:[http://localhost:8080/nifi/]
-Puerto Kibana: link:[http://localhost:5601]\ 
+API URL\
+https://data.cityofnewyork.us/resource/erm2-nwe9.json
+<br>
+</br>
+Puerto Nifi: http://localhost:8080/nifi/ \
+Puerto Kibana: http://localhost:5601\ 
 (NY_Dashboard con varios paneles de visualización)
 <br>
 </br>
