@@ -17,7 +17,6 @@ https://data.cityofnewyork.us/resource/erm2-nwe9.json
 | Kibana | 5601 | http://localhost:5601 |
 |:----:|------|------------------------|
 
-(NY_Dashboard con varios paneles de visualización)
 
 ### NIFI Flow
 
@@ -58,5 +57,8 @@ POST _reindex
   }
 }
 ```
+### Dashboard 
+
+(NY_Dashboard in recent)
 
 <img width="1161" alt="Screenshot 2021-01-10 at 17 10 25" src="https://user-images.githubusercontent.com/71548024/104128253-cc0b6300-5366-11eb-85d6-4a535c6e01e7.png">
