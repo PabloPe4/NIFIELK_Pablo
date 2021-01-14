@@ -2,7 +2,7 @@
 Entrega ejercicio NIFI-ELK
 <br>
 </br>
-Puerto Nifi: 8080
+Puerto Nifi: 8080\
 Puerto Kibana: 5601 (NY_Dashboard con varios paneles de visualización)
 <br>
 </br>
