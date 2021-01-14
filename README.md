@@ -1,6 +1,6 @@
 # NIFIELK_Pablo
 
-### Entrega ejercicio NIFI-ELK
+### Submission NIFI-ELK
 
 API URL
 
@@ -21,7 +21,7 @@ https://data.cityofnewyork.us/resource/erm2-nwe9.json
 
 ### NIFI Flow
 
-<img width="1161" alt="Screenshot 2021-01-14 at 22.07.20">
+<img width="964" alt="Screenshot 2021-01-14 at 22 07 20" src="https://user-images.githubusercontent.com/71548024/104651379-d9528580-56b7-11eb-8fc4-a98e59e86276.png">
 
 ### KIBANA
 
