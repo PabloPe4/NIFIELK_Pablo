@@ -1,15 +1,25 @@
 # NIFIELK_Pablo
 <br>
 </br>
-#Entrega ejercicio NIFI-ELK
+###Entrega ejercicio NIFI-ELK
 <br>
 </br>
 API URL\
 https://data.cityofnewyork.us/resource/erm2-nwe9.json
 <br>
 </br>
-Puerto Nifi: http://localhost:8080/nifi/ \
-Puerto Kibana: http://localhost:5601\ 
+###Docker-compose
+
+| NIFI | 8080 | http://localhost:8080 |
+|:----:|------|------------------------|
+
+| Elasticsearch | 9200 | http://localhost:9200 |
+|:-------------:|------|-----------------------|
+
+| Kibana | 5601 | http://localhost:5601 |
+|:----:|------|------------------------|
+<br>
+</br>
 (NY_Dashboard con varios paneles de visualización)
 <br>
 </br>
